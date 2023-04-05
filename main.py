@@ -6,7 +6,7 @@ from github_utils import get_github_repo, upload_github_issue
 
 
 if __name__ == "__main__":
-    access_token = os.environ['MY_GITHUB_TOKEN']
+    access_token = os.environ['MFVSp7xwde5Ij3xVF55xRaQ2bUITZArU6Q+0VQ6ViRs']
     repository_name = "github-action-with-python"
 
     seoul_timezone = timezone('Asia/Seoul')
